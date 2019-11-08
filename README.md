@@ -1,6 +1,6 @@
 # Planet Granite Sunnyvale events
 
-Publishes a searchable calendar to Planet Granite Sunnyvale events.
+Publishes a searchable calendar to [Planet Granite Sunnyvale](https://planetgranite.com/sv/) events.
 
 * Web: [planetgranite.github.io](https://planetgranite.github.io/)
 * Git: [github.com/planetgranite/planetgranite.github.io](https://github.com/planetgranite/planetgranite.github.io)
