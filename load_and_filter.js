@@ -45,7 +45,7 @@ function update_content(group_by) // re-group items based on criteria
         html_content += event_template({section: group_key, show_tags: group_by == "event", events: event_groups[group_key]});
     }
     $("#content").html(html_content);
-    $("#group_by_dropdown").html("Group by: " + group_by);
+    $("#group_by_dropdown").html("Sort by: " + group_by);
 
     apply_filters();
 }
